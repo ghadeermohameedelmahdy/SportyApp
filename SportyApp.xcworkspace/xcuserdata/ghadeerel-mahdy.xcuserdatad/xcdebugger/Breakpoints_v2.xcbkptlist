@@ -20,7 +20,7 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "994F8BE2-C2E2-416D-A29B-DD3DA4787D02 - 53e216a2005b3c90"
+                  uuid = "994F8BE2-C2E2-416D-A29B-DD3DA4787D02 - a349ab57116e70b"
                   shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -35,7 +35,7 @@
                   offsetFromSymbolStart = "1902">
                </Location>
                <Location
-                  uuid = "994F8BE2-C2E2-416D-A29B-DD3DA4787D02 - f0e4cac7c723b34"
+                  uuid = "994F8BE2-C2E2-416D-A29B-DD3DA4787D02 - 56d8c0bb0d3fe08e"
                   shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -148,7 +148,7 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "E18AFE04-A558-49F1-A993-7E6EB3FEFFB9 - 6e03aed4f55b439f"
+                  uuid = "E18AFE04-A558-49F1-A993-7E6EB3FEFFB9 - 8909998565285e42"
                   shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -163,7 +163,7 @@
                   offsetFromSymbolStart = "22">
                </Location>
                <Location
-                  uuid = "E18AFE04-A558-49F1-A993-7E6EB3FEFFB9 - 220c8a5e4ce3bfe6"
+                  uuid = "E18AFE04-A558-49F1-A993-7E6EB3FEFFB9 - c506bd0fdc90a21a"
                   shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"

@@ -57,7 +57,7 @@ extension MockSportsHandler {
                 let strSportThumb = sport["strSportThumb"]
                    let strSportDescription = sport["strSportDescription"]
                                
-                sportsArray.append(Sport(idSport: idSport as! Int, strSport: strSport as! String, strSportThumb: strSportThumb as! String, strSportDescription: strSportDescription as! String))
+                sportsArray.append(Sport(idSport: Int.init(idSport as! String)! , strSport: strSport as! String, strSportThumb: strSportThumb as! String, strSportDescription: strSportDescription as! String))
                 
             }
             completionHandler(sportsArray,nil)
